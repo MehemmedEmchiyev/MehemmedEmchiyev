@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Samsung Clone](https://samsung-clone-iota.vercel.app/)
+- 🔭 I’m currently working on [Turbo.az Clone](https://turboaz-clone.vercel.app/)
 
 - 🌱 I’m currently learning **CSS Frameworks,Advanced JavaScript, and complex back-end architecture.**
 
