@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGevbXaQudh5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730206351515?e=1740614400&v=beta&t=YQCfCO2nUQ3UwOArTA0vghrHl3BKAxTqku9lqinprZE)
 
 <h1 align="center">Hi 👋, I'm Mehemmed Emchiyev</h1>
 <h3 align="center">A passionate MERN Stack developer form Azerbaijan</h3>
