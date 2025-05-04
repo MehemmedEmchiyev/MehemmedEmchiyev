@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CSS Frameworks,Advanced JavaScript, and complex back-end architecture.**
 
-- 💬 Ask me about **HTML,CSS JavaScript**
+- 💬 Ask me about **HTML,CSS JavaScript , jQuery , React **
 
 - 📫 How to reach me **memciyev@gmail.com**
 
