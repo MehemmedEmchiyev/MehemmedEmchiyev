@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Oxu.az-Clone]([https://oxu-az-news-site-clone.vercel.app/])
+- 🔭 I’m currently working on <a href="https://oxu-az-news-site-clone.vercel.app">Oxu.az-Clone</a>
 
 - 🌱 I’m currently learning **CSS Frameworks,Advanced JavaScript, and complex back-end architecture.**
 
