@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Oxu.az Clone]([https://turboaz-clone.vercel.app/](https://oxu-az-news-site-clone.vercel.app/))
+- 🔭 I’m currently working on [Oxu.az Clone]((https://oxu-az-news-site-clone.vercel.app/))
 
 - 🌱 I’m currently learning **CSS Frameworks,Advanced JavaScript, and complex back-end architecture.**
 
